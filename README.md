@@ -1,8 +1,6 @@
 👋 Hi, I’m Harini Kaniathran </br>
 👀 I’m interested in Web Application Development </br>
 🌱 I’m currently learning the MERN Stack to enhance my full-stack development skills. </br>
-😄 Pronouns: She/her </br>
-⚡ Fun fact: I live on Coffee </br>
 💻 Projects I have worked on  </br>
  &emsp;&emsp; Full-Stack Grocery Retailer Mobile Application </br>
  &emsp;&emsp; Bus Ticketing System </br>
@@ -10,7 +8,7 @@
  &emsp;&emsp; Food Ordering Website </br>
 🛠️ Tech Stack & Tools </br>
 &emsp;**Programming Languages** </br>
-&emsp;&emsp; Java </br>
+&emsp;&emsp;      Java </br>
 &emsp;&emsp;      JavaScript (ES6) </br>
 &emsp;&emsp;      Python </br>
 &emsp;&emsp;      PHP </br>
