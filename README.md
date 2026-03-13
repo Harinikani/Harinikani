@@ -1,19 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi,%20I'm%20Harini&fontAlign=50&fontAlignY=40&color=gradient" />
+
 
 # Hi, I'm Harini
-### Software Developer | AI & Full-Stack Engineering
-
-🚀 Passionate about building scalable web applications and AI-powered systems.  
-💡 Interested in **Full-Stack Development, AI Engineering, and Cloud Applications**.
+### Software Developer | AI & Full-Stack Development
 
 ---
 
 # 👨‍💻 About Me
 
-- Software developer interested in **AI applications and full-stack development**
-- Experienced with **React, FastAPI, Node.js, Laravel**
-- Working with **LLMs, LangChain, and RAG pipelines**
-- Interested in **cloud infrastructure and scalable systems**
+- Passionate about building scalable web applications and AI-powered systems.  
+- Interested in **Full-Stack Development, AI Engineering, and Cloud Applications**.
+- Experienced with **React, FastAPI, Node.js, and Laravel**
+- Designing and implementing **LLM-powered applications using LangChain and Retrieval-Augmented Generation (RAG)**
 
 ---
 
@@ -102,15 +99,7 @@ Dashboard for analyzing datasets with AI insights.
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harinikani&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harinikani&layout=compact&theme=tokyonight)
-
----
-
-# 🔥 Contribution Streak
-
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Harinikani&theme=tokyonight)
 
 ---
 
