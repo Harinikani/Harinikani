@@ -11,6 +11,7 @@
 - Interested in **Full-Stack Development, AI Engineering, and Cloud Applications**.
 - Experienced with **React, FastAPI, Node.js, and Laravel**
 - Designing and implementing **LLM-powered applications using LangChain and Retrieval-Augmented Generation (RAG)**
+- Portfolio: https://harinikaniathranportfolio.vercel.app
 
 ---
 
@@ -106,5 +107,4 @@ Dashboard for analyzing datasets with AI insights.
 # 🌐 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/harini-kaniathran/
-- Portfolio: https://harinikaniathranportfolio.vercel.app
 - Email: Harinikaniathran02@gmail.com
