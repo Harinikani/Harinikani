@@ -1,5 +1,5 @@
 
-<img src="banner.png" width="1000">
+<img src="Banner-harini.png" width="1000">
 # Hi, I'm Harini
 ### Software Developer | AI & Full-Stack Development
 
