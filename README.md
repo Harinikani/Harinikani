@@ -17,24 +17,23 @@
 
 # 🚀 Featured Projects
 
-### 🛒 Grocery E-Commerce Mobile Application
-Full-stack grocery ordering system.
-
-**Tech:** PHP, MySQL, JavaScript
+### 📊 AI Data Analyst Dashboard
+A full-stack AI-powered data analysis platform that allows users to explore datasets using natural language. The system translates user questions into Pandas code, executes the analysis, generates interactive Plotly charts, and returns expert AI insights.
+**Tech:** Next.js (React + TypeScript), Tailwind CSS, Plotly.js, FastAPI, Python, LangChain, Pandas, LM Studio / Local LLM - Qwen2.5 Coder
 
 ---
 
 ### 🐘 Semai – AI Wildlife Conservation Platform
-AI-powered platform for wildlife conservation awareness and education.
+AI-powered platform for wildlife conservation awareness and education. The aim of this project is to provide an engaging and interactive digital tool that helps users explore and appreciate Malaysia’s diverse wildlife. Beyond education, the system encourages active participation in conservation by simplifying the process of reporting endangered and protected species. 
 
-**Tech:** JavaScript, AI APIs
+**Tech:** HTML, CSS, React, PostgreSQL, Javascript, Next.js, Python, FastAPI, Tailwind CSS, Gemini API, LangChain
 
 ---
 
-### 📊 AI Data Analyst Dashboard
-Dashboard for analyzing datasets with AI insights.
+### 🛒 Grocery E-Commerce Mobile Application
+Full-stack grocery ordering system. The Grocery Retailer mobile application aims at making a retail company's everyday activities more efficient. In order to complete the checkout process, the current daily operation of the retail company relies heavily on the checkout counter and the cashier. The cost of operation for the current check out process can be expensive due to the cost of the cashier's salary.
 
-**Tech:** TypeScript, Analytics tools
+**Tech:** HTML, CSS, PHP, SQL, Javascript, AJAX, Java(Android Studio)
 
 ---
 
