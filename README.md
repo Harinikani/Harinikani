@@ -17,6 +17,12 @@
 
 # 🚀 Featured Projects
 
+### 📊 AI-Sentiment-Analysis-Dashboard Public
+Analyze sentiment in text data using state-of-the-art AI models from Hugging Face. Upload your data or enter text directly to get insights into emotional tone and sentiment patterns.
+**Tech:** Streamlit, Python, Pandas, seaborn, Transformers, torch, numpy, Matplotlib,
+
+---
+
 ### 📊 AI Data Analyst Dashboard
 A full-stack AI-powered data analysis platform that allows users to explore datasets using natural language. The system translates user questions into Pandas code, executes the analysis, generates interactive Plotly charts, and returns expert AI insights.
 **Tech:** Next.js (React + TypeScript), Tailwind CSS, Plotly.js, FastAPI, Python, LangChain, Pandas, LM Studio / Local LLM - Qwen2.5 Coder
