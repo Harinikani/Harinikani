@@ -109,7 +109,3 @@ Full-stack grocery ordering system. The Grocery Retailer mobile application aims
 
 ---
 
-# 🌐 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/harini-kaniathran/
-- Email: Harinikaniathran02@gmail.com
